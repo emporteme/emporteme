@@ -1,5 +1,46 @@
-<p align="left">
-### Hi there, I'm Magzhan! 👋<br><br>- 🔭 I’m currently working on a client-side application that interacts with blockchain technology, using Next.js (React.js with SSR) 💻<br>- 🌱 I’m currently learning Nest.js (Express) to be able to create REST APIs 🚀<br>- 👯 I’m looking to collaborate on full-stack projects, user interactions, and email integrations 🌐<br>- 🤔 I’m looking for help with Nest.js, as I'm a beginner. However, I have experience with Django REST API 🐍<br>- 💬 Ask me about Frontend, MVP projects, and anything related to blockchain ⛓️<br>- 📫 How to reach me: [Telegram](https://t.me/emporteme) 📩<br>- 😄 Pronouns: he/him (I'm not gay) 🧑<br><br>Feel free to connect with me on GitHub and let's collaborate on some awesome projects! 🤝</p>
+<h1 align="left">Hey 👋 What's up?</h1>
+
+###
+
+<p align="left">My name is Magzhan and I'm a Frontend developer, from Taraz</p>
+
+###
+
+<h2 align="left">About me</h2>
+
+###
+
+<p align="left">- 🔭 I’m currently working on a client-side application that interacts with blockchain technology, using Next.js (React.js with SSR) 💻<br>- 🌱 I’m currently learning Nest.js (Express) to be able to create REST APIs 🚀<br>- 👯 I’m looking to collaborate on full-stack projects, user interactions, and email integrations 🌐<br>- 🤔 I’m looking for help with Nest.js, as I'm a beginner. However, I have experience with Django REST API 🐍<br>- 💬 Ask me about Frontend, MVP projects, and anything related to blockchain ⛓<br>- 😄 Pronouns: he/him (I'm not gay) 🧑</p>
+
+###
+
+<h2 align="left">I code with</h2>
+
+###
+
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="nextjs logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="40" alt="express logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-plain.svg" height="40" alt="nestjs logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" height="40" alt="sass logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
+</div>
+
+###
+
+<h2 align="left">My github stats</h2>
 
 ###
 
@@ -11,23 +52,10 @@
 
 ###
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" height="40" alt="sass logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="nextjs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-plain.svg" height="40" alt="nestjs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
-</div>
+<h2 align="left">I do not know what is this</h2>
 
 ###
+
 
 <div align="center">
   <img src="https://profile-counter.glitch.me/emporteme/count.svg?"  />
@@ -35,13 +63,11 @@
 
 ###
 
-<div align="center">
-  <img height="200" src="https://i.imgflip.com/65efzo.gif"  />
-</div>
+<h2 align="left">My contacts</h2>
 
 ###
 
-<div align="left">
+<div align="center">
   <a href="https://www.linkedin.com/in/magzhan-karatayev-87126b243/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
   </a>
@@ -61,25 +87,10 @@
 
 ###
 
+<h2 align="left">Snake (I just copied this, looks cool)</h2>
+
+###
+
 <img src="https://raw.githubusercontent.com/emporteme/emporteme/output/snake.svg" alt="Snake animation" />
 
 ###
-
-<div align="center">
-  <img src="https://github-read-medium-git-main.pahlevikun.vercel.app/latest?limit=4" alt="Layout with last medium posts"  />
-</div>
-
-###
-
-<div align="center">
-  <img src="https://spotify-recently-played-readme.vercel.app/api?count=5&unique=false" alt="Spotify recently played"  />
-</div>
-
-###
-
-<div align="center">
-  <img src="https://spotify-recently-played-readme.vercel.app/api?count=5" alt="Spotify recently played"  />
-</div>
-
-###
-
