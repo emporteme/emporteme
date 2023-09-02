@@ -52,16 +52,6 @@
 
 ###
 
-<h2 align="left">I do not know what is this</h2>
-
-###
-
-
-<div align="center">
-  <img src="https://profile-counter.glitch.me/emporteme/count.svg?"  />
-</div>
-
-###
 
 <h2 align="left">My contacts</h2>
 
@@ -83,6 +73,17 @@
   <a href="+77766860652" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/whatsapp/default.svg" width="52" height="40" alt="whatsapp logo"  />
   </a>
+</div>
+
+###
+
+<h2 align="left">I do not know what is this</h2>
+
+###
+
+
+<div align="center">
+  <img src="https://profile-counter.glitch.me/emporteme/count.svg?"  />
 </div>
 
 ###
