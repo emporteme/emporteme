@@ -88,10 +88,3 @@
 
 ###
 
-<h2 align="left">Snake (I just copied this, looks cool)</h2>
-
-###
-
-<img src="https://raw.githubusercontent.com/emporteme/emporteme/output/snake.svg" alt="Snake animation" />
-
-###
