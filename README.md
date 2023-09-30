@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">- 🔭 I’m currently working on a client-side application that interacts with blockchain technology, using Next.js (React.js with SSR) 💻<br>- 🌱 I’m currently learning Nest.js (Express) to be able to create REST APIs 🚀<br>- 👯 I’m looking to collaborate on full-stack projects, user interactions, and email integrations 🌐<br>- 🤔 I’m looking for help with Nest.js, as I'm a beginner. However, I have experience with Django REST API 🐍<br>- 💬 Ask me about Frontend, MVP projects, and anything related to blockchain ⛓<br>- 😄 Pronouns: he/him (I'm not `gay`) 🧑</p>
+<p align="left">- 🔭 I’m currently working on a client-side application that interacts with blockchain technology, using Next.js (React.js with SSR) 💻<br>- 🌱 I’m currently learning Nest.js (Express) to be able to create REST APIs 🚀<br>- 👯 I’m looking to collaborate on full-stack projects, user interactions, and email integrations 🌐<br>- 🤔 I’m looking for help with Nest.js, as I'm a beginner. However, I have experience with Django REST API 🐍<br>- 💬 Ask me about Frontend, MVP projects, and anything related to blockchain ⛓<br>- 😄 Pronouns: he/him (I'm not gay) 🧑</p>
 
 ###
 
