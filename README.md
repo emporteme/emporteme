@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is Magzhan and I'm a Frontend developer, from Taraz</p>
+<p align="left">My name is `Magzhan` and I'm a `Full-stack` developer, from `Taraz` </p>
 
 ###
 
