@@ -87,4 +87,29 @@
 </div>
 
 ###
+# Hello there 👋
 
+I'm Magzhan, a full-stack developer based in Taraz. I specialize in building performant and scalable web apps using JavaScript and related technologies. 
+
+## 🛠 Technical Skills
+
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![Next.js](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
+![Node.js](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white)
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+
+## 👨‍💻 Projects
+- 💻 Built a client-side app with Next.js that interacts with blockchain
+- 🌱 Learning NestJS to build scalable REST APIs 
+
+## 🤝🏻 Connect
+
+Feel free to reach out! I'm open to collaborating on interesting projects.
+
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/emporteme)
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/magzhan-karatayev-87126b243/)
+
+## 📈 GitHub Stats
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=emporteme)](https://github.com/emporteme)
