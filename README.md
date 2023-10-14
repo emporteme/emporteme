@@ -13,30 +13,14 @@
 <p align="left">- 🔭 I’m currently working on a client-side application that interacts with blockchain technology, using Next.js (React.js with SSR) 💻<br>- 🌱 I’m currently learning Nest.js (Express) to be able to create REST APIs 🚀<br>- 👯 I’m looking to collaborate on full-stack projects, user interactions, and email integrations 🌐<br>- 🤔 I’m looking for help with Nest.js, as I'm a beginner. However, I have experience with Django REST API 🐍<br>- 💬 Ask me about Frontend, MVP projects, and anything related to blockchain ⛓<br>- 😄 Pronouns: he/him (I'm not gay) 🧑</p>
 
 ###
+## 🛠 Technical Skills
 
-<h2 align="left">I code with</h2>
-
-###
-
-<div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="nextjs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="40" alt="express logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-plain.svg" height="40" alt="nestjs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" height="40" alt="sass logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
-</div>
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![Next.js](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
+![Node.js](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white)
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 
 ###
 
@@ -87,60 +71,3 @@
 </div>
 
 ###
-# Hello there 👋
-
-I'm Magzhan, a full-stack developer based in Taraz. I specialize in building performant and scalable web apps using JavaScript and related technologies. 
-
-## 🛠 Technical Skills
-
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![Next.js](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
-![Node.js](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white)
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-
-## 👨‍💻 Projects
-- 💻 Built a client-side app with Next.js that interacts with blockchain
-- 🌱 Learning NestJS to build scalable REST APIs 
-
-# Hello there 👋 
-
-I'm Magzhan, a full-stack developer based in Taraz. I specialize in building performant and scalable web apps using JavaScript and related technologies.
-
-## 🛠 Technical Skills
-
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![Expo](https://img.shields.io/badge/expo-1C1E24?style=for-the-badge&logo=expo&logoColor=#D04A37)
-![Next.js](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
-![Node.js](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white)
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-
-
-**Most Used:** JavaScript, React, Node.js
-
-## 👨‍💻 Projects
-- 💻 Built a client-side app with Next.js that interacts with blockchain
-- 🌱 Learning NestJS to build scalable REST APIs
-
-## 🤝🏻 Connect
-
-Feel free to reach out! I'm open to collaborating on interesting projects. 
-
-[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/emporteme)
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/magzhan-karatayev-87126b243/)
-
-## 📈 GitHub Stats 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=emporteme)](https://github.com/emporteme)
-## 🤝🏻 Connect
-
-Feel free to reach out! I'm open to collaborating on interesting projects.
-
-[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/emporteme)
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/magzhan-karatayev-87126b243/)
-
-## 📈 GitHub Stats
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=emporteme)](https://github.com/emporteme)
