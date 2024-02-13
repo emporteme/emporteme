@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is Magzhan and I'm a 'Straight' developer, from Taraz </p>
+<p align="left">My name is Magzhan and I'm a 'Straight🚹' developer, from Taraz🏙️ </p>
 
 ###
 
