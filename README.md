@@ -67,8 +67,12 @@ I’ve led teams, implemented internal processes, and mentored junior developers
 
 ---
 
-<h2 align="left">📈 Profile Views</h2>
+<h2 align="left">I do not know what is this</h2>
+
+###
 
 <div align="center">
-  <img src="https://profile-counter.glitch.me/emporteme/count.svg?" />
+  <img src="https://profile-counter.glitch.me/emporteme/count.svg?"  />
 </div>
+
+###
