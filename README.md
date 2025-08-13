@@ -1,75 +1,74 @@
 <h1 align="left">Hey 👋 What's up?</h1>
 
-###
+<p align="left">
+I'm <strong>Magzhan Karatayev</strong>, a Frontend Developer (Middle/Senior) from Astana, Kazakhstan 🇰🇿.  
+With over 4 years of experience, I specialize in building complex, scalable, and user-friendly web applications using <strong>Next.js, TypeScript, and Tailwind CSS</strong>.  
+I’ve led teams, implemented internal processes, and mentored junior developers — all while delivering high-quality products that meet real business needs.
+</p>
 
-<p align="left">My name is Magzhan and I'm a 'Straight🚹' developer, from Taraz🏙️ </p>
+---
 
-###
+<h2 align="left">🚀 About Me</h2>
 
-<h2 align="left">About me</h2>
+- 🔭 Currently leading a frontend team and delivering commercial projects at scale  
+- 🌱 Learning **Nest.js** to enhance my backend skills (REST APIs, microservices)  
+- 👯 Open to collaborating on **full-stack projects**, AI integrations, and blockchain-related apps  
+- 💬 Ask me about **Frontend, MVP development, and integrating AI into workflows**  
+- 🎯 Goal: Become a **Google Developer Expert** and contribute to open-source globally  
 
-###
+---
 
-<p align="left">- 🔭 I’m currently working on a client-side application that interacts with blockchain technology, using Next.js (React.js with SSR) 💻<br>- 🌱 I’m currently learning Nest.js (Express) to be able to create REST APIs 🚀<br>- 👯 I’m looking to collaborate on full-stack projects, user interactions, and email integrations 🌐<br>- 🤔 I’m looking for help with Nest.js, as I'm a beginner. However, I have experience with Django REST API 🐍<br>- 💬 Ask me about Frontend, MVP projects, and anything related to blockchain ⛓<br>- 😄 Pronouns: he/him (I'm not gay) 🧑</p>
+<h2 align="left">🛠 Technical Skills</h2>
 
-###
-## 🛠 Technical Skills
+**Languages:** JavaScript (ES6+), TypeScript  
+**Frameworks & Libraries:** React, Redux Toolkit, Next.js, Zustand, React Query, React Native  
+**Styling:** CSS3, SCSS/SASS, Tailwind CSS  
+**Architecture:** MVC, MVVM, Feature-Sliced Design (FSD), Micro Frontends (basic)  
+**Tools:** Git, GitLab, CI/CD, ESLint, Prettier, Vite, Bun  
+**APIs:** REST, GraphQL  
+**Backend:** Node.js, Express, Nest.js (basic)  
+**Testing:** Jest, React Testing Library, Cypress  
+**DevOps/Cloud:** Vercel, AWS (basic)  
+**AI Tools:** Cursor AI, GitHub Copilot  
 
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![Expo](https://img.shields.io/badge/expo-1C1E24?style=for-the-badge&logo=expo&logoColor=#D04A37)
-![Next.js](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
-![Node.js](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white)
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+---
 
-###
-
-<h2 align="left">My github stats</h2>
-
-###
+<h2 align="left">📊 My GitHub Stats</h2>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=emporteme&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=emporteme&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
-<!--   <img src="https://streak-stats.demolab.com?user=emporteme&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  /> -->
+  <img src="https://github-readme-stats.vercel.app/api?username=emporteme&show_icons=true&count_private=true&theme=dracula" height="150" alt="stats graph" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=emporteme&layout=compact&langs_count=6&theme=dracula" height="150" alt="languages graph" />
 </div>
 
-###
+---
 
-
-<h2 align="left">My contacts</h2>
-
-###
+<h2 align="left">📫 Contact Me</h2>
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/magzhan-karatayev-87126b243/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+  <a href="https://www.emporteme.com" target="_blank">
+    <img src="https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="Website" />
   </a>
-  <a href="emporteme#1213" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
-  </a>
-  <a href="https://www.instagram.com/emporteme/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
+  <a href="https://www.linkedin.com/in/emporteme/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="https://t.me/emporteme" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/telegram/default.svg" width="52" height="40" alt="telegram logo"  />
+    <img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" />
   </a>
-  <a href="+77766860652" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/whatsapp/default.svg" width="52" height="40" alt="whatsapp logo"  />
+  <a href="https://gitlab.com/emporteme" target="_blank">
+    <img src="https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white" alt="GitLab" />
+  </a>
+  <a href="mailto:magzhankarataev02@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://wa.me/77472786055" target="_blank">
+    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" />
   </a>
 </div>
 
-###
+---
 
-<h2 align="left">I do not know what is this</h2>
-
-###
-
+<h2 align="left">📈 Profile Views</h2>
 
 <div align="center">
-  <img src="https://profile-counter.glitch.me/emporteme/count.svg?"  />
+  <img src="https://profile-counter.glitch.me/emporteme/count.svg?" />
 </div>
-
-###
